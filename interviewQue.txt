@@ -1,0 +1,33 @@
+SQL Interview Questions:-
+1.What is SQL? Explain its uses.?
+2.What are the different types of SQL commands? Give examples?
+3.What is a primary key? How is it different from a unique key?
+4.What is a foreign key? Why is it used?
+5.What is the difference between DELETE, TRUNCATE, and DROP?
+6.Write a SQL query to find the second highest salary from the "Employee" table.
+7.Explain the difference between INNER JOIN and OUTER JOIN. Provide examples.
+8.What is a subquery? Differentiate between a correlated and non-correlated subquery.
+9.How do you use the CASE statement in SQL? Provide an example.
+10.What is the difference between HAVING and WHERE clauses?
+11.Explain the concept of indexing in SQL. What are the advantages and disadvantages of using indexes?
+12.Write a SQL query to find duplicate records in a table.?
+13.How do you perform pagination in SQL? Provide an example.?
+14.Explain normalization and its types. Why is it important?
+15.Given a table "Orders" with columns order_id, customer_id, order_date, and amount, write a query to find the total amount spent by each customer.
+16.How would you write a query to find employees who have not placed any orders in the "Orders" table?
+17.What are stored procedures? What are their advantages?
+18.What is a self-join? Write a query to demonstrate it.
+19.What is a NULL value in SQL? How is it different from a zero or an empty string?
+20.How do you sort records in SQL? What are the default sorting orders?
+21.What is the GROUP BY clause used for? Can you use it without aggregate functions?
+22.What are constraints in SQL? List different types of constraints?
+23.Explain the difference between CHAR and VARCHAR data types.?
+24.Write a SQL query to find the number of employees in each department from an "Employees" table.?
+25.What is the difference between UNION and UNION ALL?
+26.How would you update multiple records in a table with a single SQL query? Provide an example.?
+27.Explain the use of the DISTINCT keyword in SQL. Can it be used with multiple columns?
+28.What is a composite key in SQL? Give an example.?
+29.How do you optimize a SQL query for better performance? List some best practices.
+30.Write a SQL query to fetch the top 3 highest salaries from an "Employees" table.?
+31.Given two tables, "Students" and "Courses", write a SQL query to find all students who are not enrolled in any course.?
+32.How would you write a SQL query to find employees who joined the company in the last 30 days?

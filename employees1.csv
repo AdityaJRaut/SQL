@@ -1,0 +1,18 @@
+empid,empname,empsalary,empdept,empgender,empdob,managerid,user_id,contact,email
+1,"Aditya Raut",NULL,NULL,Male,NULL,NULL,1,null,rautadityaj@gmail.com
+10,"Nilesh Hupare",NULL,IT,Male,NULL,12,11,null,a@b.com
+11,employee_2,NULL,IT,Male,NULL,12,12,NULL,NULL
+12,"Bhushan Bisen",NULL,"Not Assigned",Male,2025-04-01,22,13,null,a@b.com
+13,employee_3,NULL,IT,Male,NULL,12,14,NULL,NULL
+14,"employee New",NULL,IT,Male,NULL,12,15,NULL,NULL
+15,yashada,NULL,IT,Female,NULL,12,16,NULL,NULL
+16,"Dinesh Nikam",NULL,IT,Male,NULL,12,17,NULL,NULL
+17,"Aditya Raut",NULL,IT,Female,NULL,12,18,NULL,NULL
+18,Aditya,NULL,NULL,Male,NULL,12,19,null,a@b.com
+19,"new employee ",NULL,"Not Assigned",Male,NULL,NULL,20,NULL,NULL
+20,employee,NULL,"Not Assigned",Male,NULL,NULL,21,NULL,NULL
+21,"new employee",NULL,"Not Assigned",Male,NULL,12,22,NULL,NULL
+22,test,NULL,"Not Assigned",Male,NULL,12,23,NULL,NULL
+23,"employee test",NULL,"Not Assigned",Male,NULL,NULL,24,NULL,NULL
+24,"aditya new",NULL,"Not Assigned",Male,NULL,NULL,25,NULL,NULL
+25,"employee test new",NULL,"Not Assigned",Male,NULL,NULL,26,NULL,NULL
